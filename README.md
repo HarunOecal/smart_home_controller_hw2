@@ -3,7 +3,6 @@
 **Course:** BIM493 - Mobile Programming I  
 **Assignment:** 2 - Smart Home Controller App  
 **Name Surname:** Harun Halil Öcal 
-**Student ID:** 23063487564 
 **Department:** Computer Engineering
 ## Project Description
 A simple smart home controller application developed using Flutter and Dart.
